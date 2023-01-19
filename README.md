@@ -1,6 +1,3 @@
-
-
-
 Project Title
 A brief description of the project and what it does.
 
@@ -40,7 +37,6 @@ Acknowledgments
 Hat tip to anyone whose code was used
 Inspiration
 etc
-
 # PythonAssignment
 This repo contains the python assignment. 
 
